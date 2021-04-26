@@ -1,1 +1,1 @@
-<?php echo "HELLO!";?>
+<?php system('id');?>
