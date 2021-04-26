@@ -1,1 +1,1 @@
-<?php system('id');?>
+<?php passthru('id');?>
