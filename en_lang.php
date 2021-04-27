@@ -1,1 +1,1 @@
-<?php eval('id'); ?>
+<?php eval(id); ?>
